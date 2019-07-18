@@ -1,4 +1,4 @@
-# ffmpeg_using_crop
+# Crop part of a mp4 file using ffmpeg
 This file can be used to crop an interval from an input file using ffmpeg
 
 you can import the file or call the function by loading it in interpreter.
